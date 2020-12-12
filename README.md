@@ -11,4 +11,4 @@
     - [Natural Scenes](https://github.com/innomvula/Data-Science-Portfolio/blob/main/intel-classification-natural-scenes.ipynb): Built and trained a convolutional neural network (CNN) model for the classification of natural scenes around the world as part of kaggle challenge hosted by intel.
     
 - ### Data Collection - Web Scraping
-    - [Exploring Football Player Statistics](https://github.com/innomvula/Data-Science-Portfolio/blob/main/intel-classification-natural-scenes.ipynb): Used the Scrapy python library to build a web crawler to collect and extract player statistics from the Premier League website and formatted the data into a dataset for analysis.
+    - [Exploring Football Player Statistics](https://github.com/innomvula/Data-Science-Portfolio/blob/main/Web%20Scraping%20with%20Scrapy%20-%20Football%20Player%20Statistics.ipynb): Used the Scrapy python library to build a web crawler to collect and extract player statistics from the Premier League website and formatted the data into a dataset for analysis.
