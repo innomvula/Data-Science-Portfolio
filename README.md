@@ -8,6 +8,7 @@
     - [Predicting Song Ratings](https://github.com/innomvula/Data-Science-Portfolio/blob/main/Spotify_regression_Code.ipynb): Built and trained regression models to predict song genre and popularity based on various song attributes as found on Spotify.
 -  ### Machine Learning - Classification
    - [Predicting Song Genres](https://github.com/innomvula/Data-Science-Portfolio/blob/main/Spotify_classification_code_ensemble_Learning.ipynb): Built and trained classification models to predict song genre and popularity based on various song attributes as found on Spotify.
+   - [Credit Risk Modelling](https://github.com/innomvula/Data-Science-Portfolio/blob/main/Credit%20risk%20modelling%20-%20Predictive%20Models%20(BASE).ipynb): Modelling probability of default of credit card clients in Taiwan based on a variety of demographic and payment information
  
 - ### Deep Learning - Computer Vision
     - [Digit Recognizer](https://github.com/innomvula/Data-Science-Portfolio/blob/main/Image%20Classifier%20(MNIST)%20LeNet%20-%205.ipynb): Building and training a Convolutional Neural Network (CNN) model using the LeNet - 5 architecture to recognize digits from various images of handwritten digits in the classic MNIST dataset (Standard Arabic Numerals).
