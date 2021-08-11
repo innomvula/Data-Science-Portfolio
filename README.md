@@ -7,7 +7,7 @@
     - [Predicting Housing Prices](https://github.com/innomvula/Data-Science-Portfolio/blob/main/Housing%20Prices%20Kaggle%20Challenge.ipynb): Exploration of the features of houses to get an understanding of how they affect housing prices. As well as building and training a model to predict housing prices in Ames, Iowa using the Ames Housing dataset.
     - [Predicting Song Ratings](https://github.com/innomvula/Data-Science-Portfolio/blob/main/Spotify_regression_Code.ipynb): Built and trained regression models to predict song genre and popularity based on various song attributes as found on Spotify.
 -  ### Machine Learning - Classification
-   - [Predicting Song Genres](https://github.com/innomvula/Data-Science-Portfolio/blob/main/Spotify_regression_Code.ipynb): Built and trained classification models to predict song genre and popularity based on various song attributes as found on Spotify.
+   - [Predicting Song Genres](https://github.com/innomvula/Data-Science-Portfolio/blob/main/Spotify_classification_code_ensemble_Learning.ipynb): Built and trained classification models to predict song genre and popularity based on various song attributes as found on Spotify.
  
 - ### Deep Learning - Computer Vision
     - [Digit Recognizer](https://github.com/innomvula/Data-Science-Portfolio/blob/main/Image%20Classifier%20(MNIST)%20LeNet%20-%205.ipynb): Building and training a Convolutional Neural Network (CNN) model using the LeNet - 5 architecture to recognize digits from various images of handwritten digits in the classic MNIST dataset (Standard Arabic Numerals).
